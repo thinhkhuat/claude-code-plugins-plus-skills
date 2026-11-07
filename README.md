@@ -81,33 +81,33 @@ ccpi update                     # Pull latest versions
 
 ### 📦 Live npm Downloads
 
-Across **453 published packages** in the
+Across **454 published packages** in the 
 [claude-code-plugins](https://www.npmjs.com/~jeremylongshore) namespace. Updated daily by GitHub Actions.
 
-| Window        | All packages | Established (>30d) |
-| ------------- | -----------: | -----------------: |
-| Last 24 hours |          420 |                217 |
-| Last 7 days   |        6,514 |              5,176 |
-| Last 30 days  |       52,520 |             48,222 |
+| Window | All packages | Established (>30d) |
+|--------|-------------:|-------------------:|
+| Last 24 hours | 1,638 | 1,638 |
+| Last 7 days | 7,044 | 7,044 |
+| Last 30 days | 25,158 | 25,158 |
 
 <sub>"Established" excludes packages first published within the last 30 days, so a bulk-publish event doesn't dominate the headline.</sub>
 
 **Top 10 by last 30 days:**
 
-| #   | Package                                                                                                                                                    | Last 30d |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------: |
-| 1   | [`@intentsolutionsio/databricks-pack`](https://www.npmjs.com/package/@intentsolutionsio/databricks-pack)                                                   |    1,085 |
-| 2   | [`@intentsolutionsio/wallet-security-auditor`](https://www.npmjs.com/package/@intentsolutionsio/wallet-security-auditor)                                   |      748 |
-| 3   | [`@intentsolutionsio/wondelai-influence-psychology`](https://www.npmjs.com/package/@intentsolutionsio/wondelai-influence-psychology)                       |      683 |
-| 4   | [`@intentsolutionsio/openrouter-pack`](https://www.npmjs.com/package/@intentsolutionsio/openrouter-pack)                                                   |      615 |
-| 5   | [`@intentsolutionsio/tonone`](https://www.npmjs.com/package/@intentsolutionsio/tonone)                                                                     |      584 |
-| 6   | [`@intentsolutionsio/governed-second-brain`](https://www.npmjs.com/package/@intentsolutionsio/governed-second-brain)                                       |      581 |
-| 7   | [`@intentsolutionsio/wondelai-drive-motivation`](https://www.npmjs.com/package/@intentsolutionsio/wondelai-drive-motivation)                               |      569 |
-| 8   | [`@intentsolutionsio/skill-creator`](https://www.npmjs.com/package/@intentsolutionsio/skill-creator)                                                       |      459 |
-| 9   | [`@intentsolutionsio/000-jeremy-content-consistency-validator`](https://www.npmjs.com/package/@intentsolutionsio/000-jeremy-content-consistency-validator) |      440 |
-| 10  | [`@intentsolutionsio/sugar`](https://www.npmjs.com/package/@intentsolutionsio/sugar)                                                                       |      428 |
+| # | Package | Last 30d |
+|---|---------|---------:|
+| 1 | [`@intentsolutionsio/claude-pack`](https://www.npmjs.com/package/@intentsolutionsio/claude-pack) | 1,875 |
+| 2 | [`@intentsolutionsio/jeremy-vertex-engine`](https://www.npmjs.com/package/@intentsolutionsio/jeremy-vertex-engine) | 1,105 |
+| 3 | [`@intentsolutionsio/jeremy-adk-orchestrator`](https://www.npmjs.com/package/@intentsolutionsio/jeremy-adk-orchestrator) | 1,079 |
+| 4 | [`@intentsolutionsio/jeremy-vertex-ai`](https://www.npmjs.com/package/@intentsolutionsio/jeremy-vertex-ai) | 1,048 |
+| 5 | [`@intentsolutionsio/jeremy-vertex-validator`](https://www.npmjs.com/package/@intentsolutionsio/jeremy-vertex-validator) | 1,045 |
+| 6 | [`@intentsolutionsio/anthropic-pack`](https://www.npmjs.com/package/@intentsolutionsio/anthropic-pack) | 551 |
+| 7 | [`@intentsolutionsio/openrouter-pack`](https://www.npmjs.com/package/@intentsolutionsio/openrouter-pack) | 529 |
+| 8 | [`@intentsolutionsio/databricks-pack`](https://www.npmjs.com/package/@intentsolutionsio/databricks-pack) | 295 |
+| 9 | [`@intentsolutionsio/wallet-security-auditor`](https://www.npmjs.com/package/@intentsolutionsio/wallet-security-auditor) | 275 |
+| 10 | [`@intentsolutionsio/groq-pack`](https://www.npmjs.com/package/@intentsolutionsio/groq-pack) | 273 |
 
-<sub>Last refreshed 2026-07-18T01:24:22.428Z.</sub>
+<sub>Last refreshed 2026-11-07T01:09:34.721Z.</sub>
 
 <!-- NPM-STATS:END -->
 
